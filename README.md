@@ -60,6 +60,15 @@ I’m Jagadeesh, a passionate **Data Analyst**, **Programmer**, and **Content Cr
 ---
 
 ## 📂 **Projects**
+## 📽️ Full Stack Projects
+
+
+<a href="https://tedxclaretcollegebangalore.com/">TedXclaretcollege</a>
+<p>We built the TEDxClaretCollege website - <a href="https://github.com/albineb007"> @albineb007</a> , <a href="https://github.com/Jagadeesh7400">@Jagadeesh7400</a> and <a href="https://www.linkedin.com/in/v-anil-kumar-855775265/"> @V Anil Kumar</a>  . The site uses WordPress with WooCommerce plugins and Elementor for a beautiful design and features like ticketing, comments, and detailed visitor tracking. We exported the data for analysis in CSV or XLSX formats.  It was a fun project and we were selected to be core members of TEDxClaretCollege!</p>
+<br>
+<br>
+<a href="https://technovation-2k24.github.io/Technovation/">Technovation2024</a>
+<p>We built the website for Technovation-2k24, an inter-college competition!  <a href="https://github.com/albineb007"> @albineb007</a> , <a href="https://github.com/Jagadeesh7400">@Jagadeesh7400</a> and <a href="https://github.com/Shadan-Jamal"> @Shadan-Jamal</a>  teamed up to create a website for inter-college competition for Computer Science Department of St.Claret College . We used our skills to build a great website for the event, and everyone enjoyed the process!</p>
 
 ### 🖥️ **Portfolio Website**  
 Built a dynamic and responsive portfolio showcasing skills in programming, analytics, and design.  
@@ -67,9 +76,6 @@ Built a dynamic and responsive portfolio showcasing skills in programming, analy
 
 ### 🔎 **Mutual Fund Data Analysis**  
 Performed EDA to derive actionable insights using Python and pandas.  
-
-### 🌟 **TEDxClaretCollege Website**  
-Created a WordPress site for TEDx, integrating WooCommerce for ticketing and event management.  
 
 ### 📊 **Interactive Dashboards**  
 - **Air India Performance Dashboard**: Analyzed data for actionable insights using Power BI.  
